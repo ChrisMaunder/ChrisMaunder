@@ -1,5 +1,10 @@
-## Hi there 👋
+My Repositories are broken up into roughly 4 parts: 
+ - CodeProject.AI Server: An MLOps system to allow developers to easily wrap their AI programs, notebooks and experiments into deplpoyable modules for the world to use
+ - General MFC components: From days past when MFC was still the cool kid in town
+ - Copies of articles I've written over the years on a wide range of disconnected topics
+ - Physiology, wearables, health data analysis and anything related to the capture and interpretation of physiological data to help cyclists and athletes train
 
+For a more organised list see [chrismaunder.com](https://chrismaunder.com).
 <!--
 **ChrisMaunder/ChrisMaunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
